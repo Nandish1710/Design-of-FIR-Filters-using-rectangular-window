@@ -9,9 +9,9 @@
 
   PC Installed with SCILAB 
 
-# PROGRAM 
+# PROGRAM :
 
 
-# OUTPUT
+# OUTPUT:
 
-# RESULT
+# RESULT:
